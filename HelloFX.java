@@ -30,7 +30,7 @@ public class HelloFX extends Application {
 	}
 	
 	public static void main ( String [ ] args ) {
-		System.out.println ( "Hello FX! I am currently learning Git as well! This is aweseome!" );
+		System.out.println ( "Hello FX! I am currently learning Git as well! This is awesome!" );
 		launch ( args );
 	}
 }
